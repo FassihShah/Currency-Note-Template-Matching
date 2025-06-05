@@ -43,3 +43,13 @@ This project implements a computer vision solution to detect and locate the face
    - Save detected identification box coordinates to a CSV file for further analysis.
 
 ---
+
+## Files
+
+- `Currency_Note_Template_Matching.ipynb`: Main notebook containing:
+  - Preprocessing  
+  - Template matching code
+  - Saving output
+- `Report.pdf`: Summary of task and challenges with solutions  
+
+---
